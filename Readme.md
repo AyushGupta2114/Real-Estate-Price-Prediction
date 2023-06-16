@@ -1,6 +1,4 @@
-Real-Estate-Price-Prediction
-![Alt text](image.png)
-# House Price Prediction using Linear Regression
+# Real-Estate-Price-Prediction using Linear Regression
 
 This project aims to predict house prices based on various features using linear regression. It utilizes historical data on house prices and their associated features to train the model, which can then make predictions on new, unseen data.
 
